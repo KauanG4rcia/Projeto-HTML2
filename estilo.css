@@ -1,0 +1,21 @@
+p{
+    color:white;
+}
+.titulo{
+    text-align:center;
+    color: rgb(6, 135, 209);
+    font-size: 1.8em;
+}
+.coluna1, .coluna2, .coluna3{
+    align-items: center;
+    margin: 1%;
+}
+.coluna1{
+    flex-grow: 1;
+}
+.coluna2{
+    flex-grow: 1;
+}
+.coluna3{
+    flex-grow: 1;
+}
